@@ -4,8 +4,9 @@
   <cheese>Mozarella</cheese>
   <crust>Gluten Free</crust>
   <price>
-    $10.00
+    <pre_tax>$10.00</pre_tax>
     <tax>$1.00</tax>
+    <total>$11.00</total>
   </price>
 </pizza>
 
