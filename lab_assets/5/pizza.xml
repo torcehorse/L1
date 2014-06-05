@@ -2,8 +2,8 @@
 
 <pizza>
   <cheese></cheese>
-  <gluten-free></gluten-free>
   <crust></crust>
+  <gluten-free></gluten-free>
 </pizza>
 
 
