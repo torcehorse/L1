@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <pizza>
-  $10.00
   <cheese>Mozarella</cheese>
   <crust>Gluten Free</crust>
+  <price>$10.00</price>
 </pizza>
 
 
