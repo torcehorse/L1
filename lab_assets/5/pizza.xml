@@ -3,7 +3,10 @@
 <pizza>
   <cheese>Mozarella</cheese>
   <crust>Gluten Free</crust>
-  <price>$10.00</price>
+  <price>
+    $10.00
+    <tax>$1.00</tax>
+  </price>
 </pizza>
 
 
