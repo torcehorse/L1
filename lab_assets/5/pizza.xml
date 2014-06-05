@@ -8,7 +8,7 @@
     <topping>Pepperoni</topping>
     <topping>Mushroom</topping>
   </toppings>
-  Customer Request: Pizza well done
+  <note>Customer Request: Pizza well done</note>
 </pizza>
 
 
