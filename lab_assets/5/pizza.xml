@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <pizza>
-  <cheese>Mozarella</cheese>
-  <crust>Gluten Free</crust>
+  <cheese></cheese>
+  <crust></crust>
   <price>
-    <pre_tax>$10.00</pre_tax>
-    <tax>$1.00</tax>
-    <total>$11.00</total>
+    <pre_tax></pre_tax>
+    <tax></tax>
+    <total></total>
   </price>
 </pizza>
 
