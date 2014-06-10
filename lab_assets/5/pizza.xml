@@ -3,8 +3,7 @@
 <pizza>
   <cheese>Mozarella</cheese>
   <crust>Gluten Free</crust>
-  <price>$10.00</price>
-  <first-own-attribute></first-own-attribute>
+  <josh>test</josh>
 </pizza>
 
 
