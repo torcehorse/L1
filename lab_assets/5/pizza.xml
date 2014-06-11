@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <pizza>
-  <cheese>Mozarella</cheese>
-  <crust>Gluten Free</crust>
-  <josh>test</josh>
+  <cheese></cheese>
+  <crust></crust>
+  <gluten-free></gluten-free>
+  <chr></chr>
 </pizza>
 
 
