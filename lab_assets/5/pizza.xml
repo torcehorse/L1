@@ -3,8 +3,11 @@
 <pizza>
   <cheese></cheese>
   <crust></crust>
-  <gluten-free></gluten-free>
-  <chr></chr>
+  <price>
+    <pre_tax></pre_tax>
+    <tax></tax>
+    <total>9</total>
+  </price>
 </pizza>
 
 
