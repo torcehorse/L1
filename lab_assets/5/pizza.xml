@@ -1,13 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<pizza>
-  <cheese></cheese>
-  <crust></crust>
-  <price>
-    <pre_tax></pre_tax>
-    <tax></tax>
-    <total>9</total>
-  </price>
-</pizza>
-
-
+<my-pizza>
+<josh>asdf</josh>
+</my-pizza>
