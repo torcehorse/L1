@@ -1,3 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<my_pizza/>
+<pizza>
+  <cheese>Mozarella</cheese>
+  <crust>Gluten Free</crust>
+  <price>$10.00</price>
+</pizza>
+
+
