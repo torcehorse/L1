@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <pizza>
-  <cheese>ANOTHER SAMPLE ANSWER</cheese>
+  <cheese></cheese>
   <crust></crust>
   <price>
-    <pre_tax></pre_tax>
+    <pre_tax>me
+        
+    </pre_tax>
     <tax></tax>
     <total></total>
   </price>
