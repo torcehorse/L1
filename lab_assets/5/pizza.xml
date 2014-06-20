@@ -1,12 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <pizza>
-  <cheese></cheese>
+  <cheese>Jibwa Solution IS Huge</cheese>
   <crust></crust>
   <price>
-    <pre_tax>me
-        
-    </pre_tax>
+    <pre_tax></pre_tax>
+    <tax></tax>
+    <total></total>
+  </price>
+  <price>
+    <pre_tax></pre_tax>
+    <tax></tax>
+    <total></total>
+  </price>
+  <price>
+    <pre_tax></pre_tax>
+    <tax></tax>
+    <total></total>
+  </price>
+  <price>
+    <pre_tax></pre_tax>
+    <tax></tax>
+    <total></total>
+  </price>
+  <price>
+    <pre_tax></pre_tax>
+    <tax></tax>
+    <total></total>
+  </price>
+  <price>
+    <pre_tax></pre_tax>
     <tax></tax>
     <total></total>
   </price>
