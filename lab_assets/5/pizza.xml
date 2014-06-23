@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <pizza>
-  <cheese>Jibwa Solution</cheese>
-  <cheese>Jibwa Solution</cheese>
-  <cheese>Jibwa Solution</cheese>
-  <cheese>Jibwa Solution</cheese>
-  <cheese>Jibwa Solution</cheese>
+  <cheese>SAMPLE SOLUTION ANOTHER</cheese>
   <crust></crust>
   <price>
     <pre_tax></pre_tax>
