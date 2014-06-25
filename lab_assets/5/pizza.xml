@@ -1,13 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <pizza>
-  <cheese>Jibwa solution to chalenge 2</cheese>
-  <crust></crust>
-  <price>
-    <pre_tax></pre_tax>
-    <tax></tax>
-    <total></total>
-  </price>
+  <cheese>Mozarella</cheese>
+  <crust>Gluten Free</crust>
+  <price>$10.00</price>
+   <cheese>Mozarella</cheese>
+  <crust>Gluten Free</crust>
+  <price>$10.00</price>
+   <cheese>Mozarella</cheese>
+  <crust>Gluten Free</crust>
+  <price>$10.00</price>
+   <cheese>Mozarella</cheese>
+  <crust>Gluten Free</crust>
+  <price>$10.00</price>
+   <cheese>Mozarella</cheese>
+  <crust>Gluten Free</crust>
+  <price>$10.00</price>
+   <cheese>Mozarella</cheese>
+  <crust>Gluten Free</crust>
+  <price>$10.00</price>
 </pizza>
 
 
