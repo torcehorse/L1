@@ -1,13 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<pizza>
-  <cheese>SAMPLE SOLUTION ANOTHER</cheese>
-  <crust>MORE OF MY SOLUTION</crust>
-  <price>
-    <pre_tax></pre_tax>
-    <tax></tax>
-    <total></total>
-  </price>
-</pizza>
+<pizza>Content</pizza>
 
 
