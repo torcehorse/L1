@@ -1,38 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<pizza>
-  <cheese>Jibwa USER's Sample Solution</cheese>
-  <crust></crust>
-  <price>
-    <pre_tax></pre_tax>
-    <tax></tax>
-    <total></total>
-  </price>
-  <price>
-    <pre_tax></pre_tax>
-    <tax></tax>
-    <total></total>
-  </price>
-  <price>
-    <pre_tax></pre_tax>
-    <tax></tax>
-    <total></total>
-  </price>
-  <price>
-    <pre_tax></pre_tax>
-    <tax></tax>
-    <total></total>
-  </price>
-  <price>
-    <pre_tax></pre_tax>
-    <tax></tax>
-    <total></total>
-  </price>
-  <price>
-    <pre_tax></pre_tax>
-    <tax></tax>
-    <total></total>
-  </price>
-</pizza>
+<pizza>So,me other solution</pizza>
 
 
